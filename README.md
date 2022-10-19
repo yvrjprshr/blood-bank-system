@@ -50,7 +50,7 @@ It is a blood bank system made using django
 # How to run this project ?
 
 ``` 
-1) git clone https://github.com/yvrjprshr/blood-bank-system
+1) git clone https://github.com/yvrjprshr/blood-bank-system.git
 2) pip install -r requirements
 3) python manage.py makemigrations
 4) python manage.py migrate
